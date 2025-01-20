@@ -1,16 +1,14 @@
-## Hi there 👋
+💻 Desenvolvedor Full Stack | Analista de Sistemas
 
-<!--
-**WictorBertulino/wictorbertulino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Conhecimentos principais:
 
-Here are some ideas to get you started:
+Back-end: PHP (CodeIgniter avançado, Laravel iniciante)
+Front-end: React (poucos meses de experiência), jQuery e Bootstrap
+Node.js: Explorando o ecossistema com poucos meses de prática
+🛢 Bancos de Dados:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+MySQL e Firebird
+Experiência com procedures, triggers, views, e otimização de consultas
+🚀 Apaixonado por aprender e crescer na área de tecnologia, sempre buscando novas ferramentas e boas práticas.
+
+🌐 Aberto a colaboração em projetos e aprendizado contínuo.
