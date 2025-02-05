@@ -1,4 +1,4 @@
-💻 Desenvolvedor Full Stack | Analista de Sistemas
+![image](https://github.com/user-attachments/assets/097b3373-ba45-41a0-b298-270a95d784b1)💻 Desenvolvedor Full Stack | Analista de Sistemas
 
 📚 Conhecimentos principais:
 
@@ -41,4 +41,36 @@ Em produção.
 
 ![Arteefato - Portal de Notícias](https://github.com/WictorBertulino/wictorbertulino/blob/main/arteefato/foto-1.PNG?raw=true)
 ![Arteefato - Portal de Notícias](https://github.com/WictorBertulino/wictorbertulino/blob/main/arteefato/foto-4.PNG?raw=true)
+
+
+ERP de Gerenciamento de Despesas
+
+Sobre o Projeto
+
+Este ERP foi desenvolvido para facilitar o controle financeiro de pequenas empresas e autônomos, permitindo o registro e acompanhamento de despesas de forma simples e organizada. O sistema oferece uma interface intuitiva e responsiva, garantindo acessibilidade em diferentes dispositivos.
+
+![ERP](https://github.com/WictorBertulino/wictorbertulino/blob/main/arteefato/foto-6.PNG?raw=true)
+![ERP](https://github.com/WictorBertulino/wictorbertulino/blob/main/arteefato/foto-7.PNG?raw=true)
+
+Tecnologias Utilizadas
+
+Backend: PHP (CodeIgniter 3)
+
+Frontend: HTML, CSS (Bootstrap), JavaScript (jQuery)
+
+Banco de Dados: MySQL
+
+Infraestrutura: Cloudflare para CDN e armazenamento
+
+Funcionalidades
+
+Cadastro de despesas com categorias e métodos de pagamento
+
+Relatórios detalhados  para análise financeira
+
+Exportação de dados em CSV e PDF
+
+Controle de usuários com diferentes níveis de acesso
+
+Layout responsivo e otimizado para dispositivos móveis
 
