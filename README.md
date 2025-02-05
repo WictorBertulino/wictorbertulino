@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/097b3373-ba45-41a0-b298-270a95d784b1)💻 Desenvolvedor Full Stack | Analista de Sistemas
+💻 Desenvolvedor Full Stack | Analista de Sistemas
 
 📚 Conhecimentos principais:
 
