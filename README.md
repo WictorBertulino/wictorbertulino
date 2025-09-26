@@ -2,7 +2,7 @@
 
 📚 Conhecimentos principais:
 
-Back-end: PHP (CodeIgniter avançado, Laravel iniciante)
+Back-end: PHP (CodeIgniter avançado, Laravel -Pleno)
 Front-end: React (poucos meses de experiência), jQuery e Bootstrap
 Node.js: Explorando o ecossistema com poucos meses de prática
 
