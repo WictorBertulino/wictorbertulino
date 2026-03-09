@@ -3,11 +3,15 @@
 📚 Conhecimentos principais - Foco Back-end:
 
 Back-end: PHP (CodeIgniter avançado, Laravel -Pleno)
+
 Front-end: Vue , React (poucos meses de experiência), jQuery e Bootstrap
+
 Node.js: Explorando o ecossistema com poucos meses de prática
+
 DevOps : Docker,Git
+
 🛢 Bancos de Dados:
-MySQL e Firebird
+MySQL,Postgres e Firebird
 Experiência com procedures, triggers, views, e otimização de consultas
 
 🚀 Apaixonado por aprender e crescer na área de tecnologia, sempre buscando novas ferramentas e boas práticas.
