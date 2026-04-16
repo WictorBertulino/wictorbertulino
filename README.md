@@ -1,50 +1,122 @@
-💻 Desenvolvedor Full Stack  | Analista de Sistemas
+# 💻 Desenvolvedor Full Stack | Analista de Sistemas  
 
-📚 Conhecimentos principais - Foco Back-end:
+Desenvolvedor com foco em **Back-end robusto, arquitetura de sistemas e aplicações escaláveis**, com experiência em integrações, processamento assíncrono e boas práticas de engenharia de software.
 
-Back-end: PHP (CodeIgniter avançado, Laravel -Pleno)
+---
 
-Front-end: Vue , React (poucos meses de experiência), jQuery e Bootstrap
+## 📚 Stack e Especialidades  
 
-Node.js: Explorando o ecossistema com poucos meses de prática
+### 🖥️ Back-end  
+- PHP (**CodeIgniter avançado**, **Laravel - nível pleno**)  
+- Desenvolvimento de APIs RESTful  
+- Laravel com:
+  - **Inertia.js** (SPA sem API tradicional)
+  - **Jobs e Queues** (processamento assíncrono)
+  - **Events & Listeners**
+  - **Service Layer + DTOs**
+- Aplicação de **Design Patterns** e princípios **SOLID**  
+- Código limpo e arquiteturas organizadas  
 
-DevOps : Docker,Git
+---
 
-🛢 Bancos de Dados:
-MySQL,Postgres e Firebird
-Experiência com procedures, triggers, views, e otimização de consultas
+### 🎨 Front-end  
+- Vue.js (integração com Inertia.js)  
+- React (experiência inicial)  
+- jQuery e Bootstrap  
 
-🚀 Apaixonado por aprender e crescer na área de tecnologia, sempre buscando novas ferramentas e boas práticas.
+---
 
-🌐 Aberto a colaboração em projetos e aprendizado contínuo.
+### ⚙️ Node.js  
+- Exploração do ecossistema  
+- Criação de serviços e integrações  
 
+---
 
+### 🐳 DevOps & Infraestrutura  
+- Docker (containers e ambientes isolados)  
+- Git (versionamento e fluxo de trabalho)  
+- Configuração de ambientes e deploy  
+- Experiência com processamento em background (workers)  
 
+---
 
+### 🛢️ Banco de Dados  
+- MySQL, PostgreSQL e Firebird  
+- Experiência com:  
+  - Procedures  
+  - Triggers  
+  - Views  
+  - Otimização de queries  
 
-Projeto Referência 
+---
 
-Arteefato - Portal de Notícias
-link : https://arteefato.com/
+## ⚙️ Diferenciais Técnicos  
 
-Sobre o Projeto
+- Integração com APIs externas  
+- Desenvolvimento de sistemas com foco em **performance e escalabilidade**  
+- Implementação de **processamento assíncrono com filas (queues)**  
+- Conhecimento em **System Design**  
+- Arquitetura em camadas (**Controller, Service, DTO**)  
+- Separação de responsabilidades e organização de código  
+- Estruturação de aplicações pensando em **crescimento e manutenção a longo prazo**  
 
-Arteefato é um portal de notícias desenvolvido para compartilhar informações relevantes sobre diversos temas, como tecnologia, cultura, entretenimento e muito mais. Criado com o objetivo de oferecer um ambiente organizado e intuitivo, o portal apresenta um design responsivo e funcionalidades que facilitam a navegação e leitura.
+---
 
-Tecnologias Utilizadas
+## 🚀 Sobre mim  
 
-Backend: PHP (CodeIgniter 3)
+Apaixonado por tecnologia e evolução constante.  
+Tenho interesse em aprofundar conhecimentos em **arquitetura de software, system design e sistemas distribuídos**.
 
-Frontend: HTML, CSS (Bootstrap), JavaScript (jQuery)
+Aberto a colaboração em projetos e novos desafios.
 
-Banco de Dados: MySQL
+---
 
-Hospedagem e Infraestrutura: Cloudflare para IMG e Hostinger
+## 🌐 Projeto em Destaque  
 
-Em produção.
+### 🔗 Arteefato - Portal de Notícias  
+https://arteefato.com/  
 
-![Arteefato - Portal de Notícias](https://github.com/WictorBertulino/wictorbertulino/blob/main/arteefato/foto-1.PNG?raw=true)
-![Arteefato - Portal de Notícias](https://github.com/WictorBertulino/wictorbertulino/blob/main/arteefato/foto-4.PNG?raw=true)
+---
+
+### 📌 Sobre o Projeto  
+
+Portal de notícias desenvolvido para compartilhar conteúdos sobre tecnologia, cultura e entretenimento, com foco em experiência do usuário e organização da informação.
+
+---
+
+### 🛠 Tecnologias Utilizadas  
+
+- **Backend:** PHP (CodeIgniter 3)  
+- **Frontend:** HTML, CSS (Bootstrap), JavaScript (jQuery)  
+- **Banco de Dados:** MySQL  
+- **Infraestrutura:** Cloudflare (imagens) + Hostinger  
+
+---
+
+### ✅ Status  
+
+✔ Em produção  
+✔ Layout responsivo  
+✔ Navegação otimizada  
+
+---
+
+### 💡 Evoluções planejadas  
+
+- Migração para **Laravel + Inertia.js**  
+- Implementação de **Jobs, Queues e processamento assíncrono**  
+- Uso de **Docker** para padronização de ambiente  
+- Evolução do front-end com **Vue.js**  
+- Aplicação mais profunda de **Design Patterns e SOLID**  
+- Estrutura baseada em **System Design moderno**  
+
+---
+
+## 📫 Contato  
+
+- GitHub: https://github.com/WictorBertulino
+- Linkedin: https://www.linkedin.com/in/jo%C3%A3o-wictor-oliveira-09939a1b9/
+
 
 
 
