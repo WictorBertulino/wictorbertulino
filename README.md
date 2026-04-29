@@ -7,7 +7,7 @@ Desenvolvedor com foco em **Back-end robusto, arquitetura de sistemas e aplicaç
 ## 📚 Stack e Especialidades  
 
 ### 🖥️ Back-end  
-- PHP (**CodeIgniter avançado**, **Laravel - nível pleno**)  
+- PHP (**CodeIgniter avançado**, **Laravel - nível pleno/sênior(Trânsição)**)   
 - Desenvolvimento de APIs RESTful  
 - Laravel com:
   - **Inertia.js** (SPA sem API tradicional)
@@ -58,7 +58,9 @@ Desenvolvedor com foco em **Back-end robusto, arquitetura de sistemas e aplicaç
 - Conhecimento em **System Design**  
 - Arquitetura em camadas (**Controller, Service, DTO**)  
 - Separação de responsabilidades e organização de código  
-- Estruturação de aplicações pensando em **crescimento e manutenção a longo prazo**  
+- Estruturação de aplicações pensando em **crescimento e manutenção a longo prazo**
+- Princípios SOLID
+- Design Patterns
 
 ---
 
